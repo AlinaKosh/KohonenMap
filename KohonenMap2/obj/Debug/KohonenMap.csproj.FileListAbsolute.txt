@@ -1,0 +1,46 @@
+C:\Users\MrPushistik\source\repos\KohonenMap\bin\Debug\KohonenMap.exe.config
+C:\Users\MrPushistik\source\repos\KohonenMap\bin\Debug\KohonenMap.exe
+C:\Users\MrPushistik\source\repos\KohonenMap\bin\Debug\KohonenMap.pdb
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\KohonenMap.csproj.AssemblyReference.cache
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\MainWindow.g.cs
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\App.g.cs
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\KohonenMap_MarkupCompile.cache
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\KohonenMap_MarkupCompile.lref
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\MainWindow.baml
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\KohonenMap.g.resources
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\KohonenMap.Properties.Resources.resources
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\KohonenMap.csproj.GenerateResource.cache
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\KohonenMap.csproj.CoreCompileInputs.cache
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\KohonenMap.exe
+C:\Users\MrPushistik\source\repos\KohonenMap\obj\Debug\KohonenMap.pdb
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\KohonenMap.csproj.AssemblyReference.cache
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\MainWindow.g.cs
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\App.g.cs
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\KohonenMap_MarkupCompile.cache
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\KohonenMap_MarkupCompile.lref
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\KohonenMap.exe
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\KohonenMap.pdb
+C:\Users\MrPushistik\source\repos\KohonenMap2\bin\Debug\KohonenMap.exe.config
+C:\Users\MrPushistik\source\repos\KohonenMap2\bin\Debug\KohonenMap.exe
+C:\Users\MrPushistik\source\repos\KohonenMap2\bin\Debug\KohonenMap.pdb
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\MainWindow.baml
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\KohonenMap.g.resources
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\KohonenMap.Properties.Resources.resources
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\KohonenMap.csproj.GenerateResource.cache
+C:\Users\MrPushistik\source\repos\KohonenMap2\obj\Debug\KohonenMap.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\bin\Debug\KohonenMap.exe.config
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\bin\Debug\KohonenMap.exe
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\bin\Debug\KohonenMap.pdb
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap.csproj.AssemblyReference.cache
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\App.g.cs
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap_MarkupCompile.cache
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap_MarkupCompile.lref
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\MainWindow.baml
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap.g.resources
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap.Properties.Resources.resources
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap.csproj.GenerateResource.cache
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap.exe
+D:\Рабочий стол\ИИ_Универ\KohonenMap2\obj\Debug\KohonenMap.pdb

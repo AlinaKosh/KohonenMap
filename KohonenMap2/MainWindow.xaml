@@ -1,0 +1,91 @@
+﻿<Window x:Class="KohonenMap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KohonenMap"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <Border Padding="5" BorderBrush="Black" BorderThickness="1" Grid.Column="0">
+            <StackPanel>
+                <TextBlock FontSize="20" Text="Сеть Кохонена" />
+                <StackPanel>
+                    <StackPanel>
+                        <TextBlock Text="T" />
+                        <TextBox x:Name="NetT" Text="100000" />
+                    </StackPanel>
+
+                    <StackPanel>
+                        <TextBlock Text="Кластеры" />
+                        <TextBox x:Name="NetC" Text="3" />
+                    </StackPanel>
+
+                    <StackPanel>
+                        <TextBlock Text="Обучающее множество" />
+                        <TextBox x:Name="NetPath" Text="D:\Рабочий стол\ИИ_Универ\dataset3.txt"/>
+                    </StackPanel>
+
+                    <Button x:Name="Go" Click="Go_Click">Создать</Button>
+                    <TextBlock x:Name="Msg" />
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <Border Padding="5" BorderBrush="Black" BorderThickness="1" Grid.Column="1">
+            <StackPanel>
+                <TextBlock FontSize="20" Text="Карта Кохонена" />
+                <StackPanel>
+                    <StackPanel>
+                        <TextBlock Text="N" />
+                        <TextBox x:Name="N" Text="15" />
+                    </StackPanel>
+
+                    <StackPanel>
+                        <TextBlock Text="M" />
+                        <TextBox x:Name="M" Text="15" />
+                    </StackPanel>
+                    
+                    <Button x:Name="Create" Click="Create_Click">Создать</Button>
+                </StackPanel>
+
+                <StackPanel>
+                    <TextBlock Text="Обучение" />
+                    <StackPanel>
+                        <TextBlock Text="Обучающее множество" />
+                        <TextBox x:Name="Path" Text="D:\Рабочий стол\ИИ_Универ\dataset3.txt"/>
+                    </StackPanel>
+                    <StackPanel>
+                        <TextBlock Text="T" />
+                        <TextBox x:Name="K" Text="100000" />
+                    </StackPanel>
+                    <Button x:Name="Learn" Click="Learn_Click">Обучить</Button>
+
+                    <StackPanel>
+                        <TextBlock Text="Резултаты" />
+
+                        <TextBlock Text="P" />
+                        <TextBox x:Name="P" Text="0" />
+                        <Button x:Name="Use" Click="Res_Click">По параметрам</Button>
+                        <Button x:Name="Res" Click="Cluster_Click">По кластерам</Button>
+                    </StackPanel>
+
+                </StackPanel>
+            </StackPanel>
+        </Border>
+       
+        
+        <Border BorderBrush="Black" BorderThickness="1" Grid.Column="2">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <Grid x:Name="Map"/>
+            </ScrollViewer>
+        </Border>
+
+    </Grid>
+</Window>
